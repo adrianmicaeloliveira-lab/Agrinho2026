@@ -1,0 +1,18 @@
+/* Tablets (Telas maiores que 600px) */
+@media screen and (min-widtd: 600px) {   
+ body {   
+    background-color: aliceblue;
+ }  
+
+  .conteiner {  
+     flex-direction: row;
+     flex-wrap: wrap;
+}
+
+.card {      
+   flex: 1;
+
+} 
+
+}
+
